@@ -1,5 +1,5 @@
 ### EX2 Generating Association Rules for Transaction dataset using Apriori Algorithm
-### DATE: 24-01-2026
+### DATE: 
 ### AIM: To generate associate rules for the Transaction dataset using Apriori Algorithm.
 ### Description:
 In data mining, association rule learning is a popular and well researched method for discovering interesting
